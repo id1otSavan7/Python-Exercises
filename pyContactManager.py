@@ -1,5 +1,5 @@
 import os
-filepath = "C:\\Users\\Lance\\Documents\\Programming Projects\\Python Project"
+filepath = "C:\\Users\\...\\Documents\\Programming Projects\\Python Project"
 contacts = []
 
 def checkIfContactsExist():
